@@ -8,3 +8,6 @@ Three GitHub skills I practiced:
 1. Creating a repository and cloning it to my local machine.
 2. Creating branches and switching between them.
 3. Opening and merging pull requests.
+
+
+**small additional change to README.md**
